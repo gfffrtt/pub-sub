@@ -1,0 +1,4 @@
+host: 127.0.0.1:8080
+queues:
+  - name: queue
+    size: 4096
